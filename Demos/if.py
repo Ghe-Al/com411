@@ -5,4 +5,4 @@ if len(n)>9:
   print("Your name has {} letters".format(len(n)))
 else:
   print("Your name is fine")
-print("program end")
+print("program end")https://github.com/Ghe-Al/com411
