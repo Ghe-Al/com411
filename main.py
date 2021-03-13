@@ -5,7 +5,6 @@ if n in range (32,127):
   print("The character represented by the ASCII code {} is: {}".format(n,chr(n)))
 else:
   print("Error: invalid code introduced")
-=======
 print("Please enter a standard character:")
 n=str(input())
 if len(n)==1:
