@@ -8,4 +8,3 @@ def run():
     print("Please enter number {} of {}".format(i,a))
     s=s+int(input())
   print("The answer is {}".format(s))
-run()

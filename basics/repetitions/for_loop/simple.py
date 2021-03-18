@@ -9,4 +9,3 @@ def run():
     print("   /     ^ \  ")
     print(" _/  ^      \_ ")
     print("/         ^   \\")
-run()

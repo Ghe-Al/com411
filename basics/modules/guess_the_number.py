@@ -20,4 +20,5 @@ def play_guess_the_number():
     else:
       print("You guess is too high!")
     print("Try again:")
-play_guess_the_number()
+def run():
+  play_guess_the_number()

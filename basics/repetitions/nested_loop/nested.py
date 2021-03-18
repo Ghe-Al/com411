@@ -9,4 +9,3 @@ def run():
       print(":-)", end="")
     print()
   print("\nDone!")
-run()

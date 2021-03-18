@@ -5,4 +5,3 @@ def run():
   while i<len(a):
     i=i+1
     print("Bop ", end="")
-run()

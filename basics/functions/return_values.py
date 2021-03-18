@@ -15,5 +15,3 @@ def run():
     print(calc_avg_weight(b1,b2))
   else:
     print("invalid input")
-#run the program
-run()

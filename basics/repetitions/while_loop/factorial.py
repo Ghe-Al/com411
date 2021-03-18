@@ -7,4 +7,3 @@ def run():
     j=j+1
     s=s*j
   print("The factorial is {}".format(s))
-run()

@@ -14,4 +14,3 @@ def run():
     print("Books with hard covers can be more expensive!")
   else:
     print("Invalid input")
-run()

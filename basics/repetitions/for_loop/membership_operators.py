@@ -6,4 +6,3 @@ def run():
   for i in reversed(a):
     print("{}".format(i), end="")
   print("\n")
-run()

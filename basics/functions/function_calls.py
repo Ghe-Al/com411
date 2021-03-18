@@ -35,4 +35,3 @@ def run():
     mirrored(w)
   elif(n==5):
     repeat(w)
-run()

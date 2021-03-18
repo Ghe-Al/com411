@@ -27,4 +27,3 @@ def run():
         print("Found some tools but no battery")
     else:
       print("I don't know where that is but I'll keep looking")
-run()

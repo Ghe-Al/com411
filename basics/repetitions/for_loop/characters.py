@@ -5,4 +5,3 @@ def run():
   for i in range (0,len(a),1):
     print("index {}: {}".format(i,a[i]))
   print("Done!")
-run()

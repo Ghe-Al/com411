@@ -6,5 +6,3 @@ def run():
   for i in range (len(a),0,-1):
     print("{}".format(a[i-1]), end="")
   print("\n")
-run()
-  

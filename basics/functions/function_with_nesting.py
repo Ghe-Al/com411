@@ -4,4 +4,5 @@ def identify():
     print("It's time to run!")
   else:
     print("We will be fine.")
-identify()
+def run():
+  identify()

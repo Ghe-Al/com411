@@ -7,4 +7,3 @@ def run():
     print("Entering the dark forest!")
   else:
     print("Not sure which route to take.")
-run()

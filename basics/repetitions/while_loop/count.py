@@ -5,4 +5,3 @@ def run():
   while (i<a):
     i=i+1
     print("Avoiding...Done! {} live cables avoided.".format(i))
-run()

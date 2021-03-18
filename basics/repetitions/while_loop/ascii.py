@@ -6,4 +6,3 @@ def run():
     i=i+1
     print("Charging: {}".format("█ " * i))
   print("The battery is fully charged.")
-run()

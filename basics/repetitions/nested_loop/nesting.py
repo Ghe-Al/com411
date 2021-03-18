@@ -12,4 +12,3 @@ def run():
           print("The distance between markers is: {}".format(z))
         z=z+1
     s=s+1
-run()

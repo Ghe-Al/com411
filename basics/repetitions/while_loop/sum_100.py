@@ -6,4 +6,3 @@ def run():
     i=i+1
     s=s+i
   print("...Done! The answer is {}".format(s))
-run()

@@ -20,4 +20,3 @@ def run():
       print("You're making too much sense for this program")
     else:
       print("I feel ya.")
-run()

@@ -4,4 +4,5 @@ def listen():
   print()
   print("That was a loud {}!".format(n))
 
-listen()
+def run():
+  listen()
